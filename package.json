@@ -36,7 +36,7 @@
     "electrum-client": "https://github.com/KZen-networks/node-electrum-client.git",
     "elliptic": "^6.5.2",
     "ethereumjs-tx": "^2.1.2",
-    "ethereumjs-util": "^7.0.0",
+    "ethereumjs-util": "^7.1.4",
     "express": "^4.17.1",
     "lodash.pick": "^4.4.0",
     "lowdb": "^1.0.0",
